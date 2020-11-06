@@ -8,8 +8,6 @@
  * 
  * data: First node content
  * next: Pointer to the next node.
- * callback: Pointer to function raisable as event
- * autoreset: Boolean indicating if autoreset or not
  */
 Node* llNewList(void* data, Node* next)
 {
