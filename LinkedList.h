@@ -8,7 +8,7 @@
 typedef struct Node
 {
   /**
-   * Int content of this node.
+   * Void pointer content of this node (to provide multityping).
    */
   void* data;
   
